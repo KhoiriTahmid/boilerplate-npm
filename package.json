@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "khoiri",
+	"description": "this project made for dicoding backend course",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
